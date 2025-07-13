@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  color: white;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+header {
+  background: #222;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  font-weight: bold;
+  font-size: 24px;
+}
+.site-name {
+  font-size: 20px;
+  margin-left: 20px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 16px;
+}
+main {
+  padding: 40px 20px;
+  min-height: 300px;
+}
+footer {
+  background: #333;
+  color: #ccc;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
