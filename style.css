@@ -29,6 +29,7 @@ nav a {
 main {
   padding: 40px 20px;
   min-height: 300px;
+  color: fuchsia;
 }
 footer {
   background: #333;
