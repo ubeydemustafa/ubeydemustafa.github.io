@@ -7,7 +7,7 @@ body {
 header {
 background: url('header-bg.jpg') no-repeat center center;
 background-size: cover;
-  padding: 20px;
+  padding: 200px;
   display: flex;
   align-items: center;
   justify-content: space-between;
