@@ -5,7 +5,8 @@ body {
   font-family: Arial, sans-serif;
 }
 header {
-  background: #222;
+background: url('header-bg.jpg') no-repeat center center;
+background-size: cover;
   padding: 20px;
   display: flex;
   align-items: center;
